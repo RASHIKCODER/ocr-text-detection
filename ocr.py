@@ -13,10 +13,10 @@ index 0000000000000000000000000000000000000000..5a97f74bbf84bd0e54d6fdb53cc22c8d
 +
 +# ---------------- MQTT CONFIG ----------------
 +
-+BROKER = "mqtt.sar-analytic.in"
++BROKER = ""
 +PORT = 1883
-+USERNAME = "mqtt"
-+PASSWORD = "mqtt"
++USERNAME = "mqt"
++PASSWORD = "mqt"
 +TOPIC = "ocr/detections"
 +
 +client = mqtt.Client()
